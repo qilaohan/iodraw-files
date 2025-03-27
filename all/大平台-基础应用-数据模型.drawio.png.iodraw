@@ -205,7 +205,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.5,0],[0.5,0.24],[1,0.24],[1,1],[0.75,1],[0,1],[0,0.75],[0,0]];polyline=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=none;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="430" width="340" height="340" as="geometry" />
+          <mxGeometry x="20" y="810" width="340" height="340" as="geometry" />
         </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-25" value="字典类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="90" y="730" width="70" height="30" as="geometry" />
