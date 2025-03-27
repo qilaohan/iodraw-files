@@ -147,13 +147,13 @@
         <mxCell id="CVRT6T9_uLgoiot2LUAR-4" value="设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="570" y="450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CVRT6T9_uLgoiot2LUAR-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-6" target="CVRT6T9_uLgoiot2LUAR-11">
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-6" target="CVRT6T9_uLgoiot2LUAR-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVRT6T9_uLgoiot2LUAR-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-6" target="CVRT6T9_uLgoiot2LUAR-12">
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-6" target="CVRT6T9_uLgoiot2LUAR-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVRT6T9_uLgoiot2LUAR-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-6" target="CVRT6T9_uLgoiot2LUAR-13">
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-6" target="CVRT6T9_uLgoiot2LUAR-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-6" value="物模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
@@ -175,6 +175,9 @@
           <mxGeometry x="570" y="310" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERone;endFill=0;startArrow=ERone;startFill=0;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-10" target="CVRT6T9_uLgoiot2LUAR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-10" target="CVRT6T9_uLgoiot2LUAR-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-10" value="产品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
