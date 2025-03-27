@@ -150,7 +150,7 @@
         <mxCell id="CVRT6T9_uLgoiot2LUAR-6" value="物模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="690" y="380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CVRT6T9_uLgoiot2LUAR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-7" target="CVRT6T9_uLgoiot2LUAR-10">
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-7" target="CVRT6T9_uLgoiot2LUAR-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-7" value="网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
@@ -164,6 +164,9 @@
         </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-9" value="连接器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="570" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-10" target="CVRT6T9_uLgoiot2LUAR-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-10" value="产品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="570" y="380" width="70" height="30" as="geometry" />
