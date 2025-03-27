@@ -73,15 +73,6 @@
         <mxCell id="CVRT6T9_uLgoiot2LUAR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=default;fillColor=#A8DADC;endArrow=ERzeroToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;labelBackgroundColor=none;" edge="1" parent="1" source="9T5kQfiR6cf4rk0olL2o-29" target="9T5kQfiR6cf4rk0olL2o-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVRT6T9_uLgoiot2LUAR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;endArrow=ERzeroToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="9T5kQfiR6cf4rk0olL2o-29" target="9T5kQfiR6cf4rk0olL2o-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="348" y="640" />
-              <mxPoint x="310" y="640" />
-              <mxPoint x="310" y="745" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9T5kQfiR6cf4rk0olL2o-29" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="330" y="590" width="70" height="30" as="geometry" />
         </mxCell>
