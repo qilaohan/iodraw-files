@@ -156,6 +156,9 @@
         <mxCell id="CVRT6T9_uLgoiot2LUAR-8" value="证书" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="330" y="380" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-9" value="连接器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="570" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
