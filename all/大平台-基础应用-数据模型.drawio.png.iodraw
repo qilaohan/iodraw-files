@@ -13,7 +13,7 @@
         <mxCell id="9T5kQfiR6cf4rk0olL2o-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERone;startFill=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=default;fillColor=#81C784;" parent="1" source="9T5kQfiR6cf4rk0olL2o-6" target="9T5kQfiR6cf4rk0olL2o-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9T5kQfiR6cf4rk0olL2o-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERone;startFill=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=default;fillColor=#81C784;" parent="1" source="CVRT6T9_uLgoiot2LUAR-36" target="9T5kQfiR6cf4rk0olL2o-30" edge="1">
+        <mxCell id="9T5kQfiR6cf4rk0olL2o-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERone;startFill=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=default;fillColor=#81C784;" parent="1" source="9T5kQfiR6cf4rk0olL2o-6" target="9T5kQfiR6cf4rk0olL2o-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9T5kQfiR6cf4rk0olL2o-6" value="租户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#81C784;strokeColor=#006658;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#5C5C5C;" parent="1" vertex="1">
@@ -204,6 +204,9 @@
         <mxCell id="CVRT6T9_uLgoiot2LUAR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006658;fontColor=default;fillColor=#81C784;endArrow=ERzeroToMany;endFill=0;startArrow=ERone;startFill=0;labelBackgroundColor=none;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-25" target="CVRT6T9_uLgoiot2LUAR-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.5,0],[0.5,0.24],[1,0.24],[1,1],[0.75,1],[0,1],[0,0.75],[0,0]];polyline=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=none;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="430" width="340" height="340" as="geometry" />
+        </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-25" value="字典类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#81C784;strokeColor=#006658;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="90" y="730" width="70" height="30" as="geometry" />
         </mxCell>
@@ -224,15 +227,6 @@
         </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-45" value="空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="770" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CVRT6T9_uLgoiot2LUAR-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERone;startFill=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=default;fillColor=#81C784;" edge="1" parent="1" source="9T5kQfiR6cf4rk0olL2o-6" target="CVRT6T9_uLgoiot2LUAR-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="245" y="550" as="sourcePoint" />
-            <mxPoint x="245" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CVRT6T9_uLgoiot2LUAR-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.5,0],[0.5,0.24],[1,0.24],[1,1],[0.75,1],[0,1],[0,0.75],[0,0]];polyline=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=none;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="435" width="340" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
