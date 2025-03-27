@@ -198,6 +198,9 @@
         <mxCell id="CVRT6T9_uLgoiot2LUAR-13" value="服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="810" y="450" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-25" target="CVRT6T9_uLgoiot2LUAR-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-25" value="字典类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="90" y="730" width="70" height="30" as="geometry" />
         </mxCell>
