@@ -219,6 +219,11 @@
         <mxCell id="CVRT6T9_uLgoiot2LUAR-40" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.35,0],[1,0],[1,0.15],[1,1],[0.75,1],[0,1],[0,0.75],[0,0]];polyline=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="280" width="710" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-43" value="配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="70" y="400" width="50" height="30" as="geometry" />
         </mxCell>
@@ -227,9 +232,6 @@
         </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-45" value="空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="430" y="770" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CVRT6T9_uLgoiot2LUAR-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry y="470" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
