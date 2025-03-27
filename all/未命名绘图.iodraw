@@ -231,6 +231,9 @@
         <mxCell id="CVRT6T9_uLgoiot2LUAR-44" value="设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="310" y="250" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-45" value="空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="430" y="770" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
