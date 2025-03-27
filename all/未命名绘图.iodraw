@@ -153,6 +153,9 @@
         <mxCell id="CVRT6T9_uLgoiot2LUAR-7" value="网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="450" y="380" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CVRT6T9_uLgoiot2LUAR-8" target="CVRT6T9_uLgoiot2LUAR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CVRT6T9_uLgoiot2LUAR-8" value="证书" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="330" y="380" width="70" height="30" as="geometry" />
         </mxCell>
@@ -168,7 +171,7 @@
         <mxCell id="CVRT6T9_uLgoiot2LUAR-12" value="事件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="810" y="380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CVRT6T9_uLgoiot2LUAR-13" value="物模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-13" value="服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=#97D077;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="810" y="450" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
