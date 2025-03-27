@@ -207,10 +207,8 @@
         <mxCell id="CVRT6T9_uLgoiot2LUAR-26" value="字典数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="210" y="730" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CVRT6T9_uLgoiot2LUAR-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;endArrow=ERzeroToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" target="9T5kQfiR6cf4rk0olL2o-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="485" y="660" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="740" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
