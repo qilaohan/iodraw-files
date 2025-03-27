@@ -198,8 +198,11 @@
         <mxCell id="CVRT6T9_uLgoiot2LUAR-13" value="服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="810" y="450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CVRT6T9_uLgoiot2LUAR-25" value="门户组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-25" value="字典类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="90" y="730" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CVRT6T9_uLgoiot2LUAR-26" value="字典类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="210" y="730" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
