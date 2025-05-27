@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="W17kfWJRujeKJT76oHx6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W17kfWJRujeKJT76oHx6-1" target="W17kfWJRujeKJT76oHx6-3">
+        <mxCell id="W17kfWJRujeKJT76oHx6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="W17kfWJRujeKJT76oHx6-1" target="W17kfWJRujeKJT76oHx6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W17kfWJRujeKJT76oHx6-1" value="标准规范" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
