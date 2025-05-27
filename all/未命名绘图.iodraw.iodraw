@@ -52,6 +52,9 @@
         <mxCell id="W17kfWJRujeKJT76oHx6-22" value="包含" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="420" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="W17kfWJRujeKJT76oHx6-23" value="计划" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="155" y="510" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
