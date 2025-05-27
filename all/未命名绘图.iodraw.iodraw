@@ -101,7 +101,7 @@
         </mxCell>
         <mxCell id="W17kfWJRujeKJT76oHx6-68" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W17kfWJRujeKJT76oHx6-66">
           <mxGeometry x="0.0556" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W17kfWJRujeKJT76oHx6-54" value="设备" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -115,7 +115,7 @@
         </mxCell>
         <mxCell id="W17kfWJRujeKJT76oHx6-69" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W17kfWJRujeKJT76oHx6-67">
           <mxGeometry x="0.0278" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W17kfWJRujeKJT76oHx6-65" value="分配" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
