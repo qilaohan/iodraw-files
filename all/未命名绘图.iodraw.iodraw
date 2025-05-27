@@ -109,10 +109,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W17kfWJRujeKJT76oHx6-70" value="设备" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="610" width="100" height="40" as="geometry" />
+          <mxGeometry x="40" y="630" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W17kfWJRujeKJT76oHx6-71" value="维修工单" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="610" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="630" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W17kfWJRujeKJT76oHx6-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="W17kfWJRujeKJT76oHx6-72" target="W17kfWJRujeKJT76oHx6-71">
           <mxGeometry relative="1" as="geometry" />
@@ -123,7 +123,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W17kfWJRujeKJT76oHx6-72" value="生成" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="510" y="610" width="90" height="40" as="geometry" />
+          <mxGeometry x="200" y="630" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W17kfWJRujeKJT76oHx6-77" value="维修工单" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W17kfWJRujeKJT76oHx6-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="W17kfWJRujeKJT76oHx6-80" target="W17kfWJRujeKJT76oHx6-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W17kfWJRujeKJT76oHx6-79" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W17kfWJRujeKJT76oHx6-78">
+          <mxGeometry x="-0.0278" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W17kfWJRujeKJT76oHx6-80" value="生成" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="640" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
