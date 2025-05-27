@@ -52,8 +52,14 @@
         <mxCell id="W17kfWJRujeKJT76oHx6-11" value="包含" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="165" y="240" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W17kfWJRujeKJT76oHx6-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W17kfWJRujeKJT76oHx6-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W17kfWJRujeKJT76oHx6-18" target="W17kfWJRujeKJT76oHx6-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W17kfWJRujeKJT76oHx6-18" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W17kfWJRujeKJT76oHx6-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
