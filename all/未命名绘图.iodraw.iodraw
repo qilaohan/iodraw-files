@@ -124,7 +124,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W17kfWJRujeKJT76oHx6-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="W17kfWJRujeKJT76oHx6-40" target="W17kfWJRujeKJT76oHx6-59">
+        <mxCell id="W17kfWJRujeKJT76oHx6-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W17kfWJRujeKJT76oHx6-40" target="W17kfWJRujeKJT76oHx6-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W17kfWJRujeKJT76oHx6-40" value="标准规范" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
